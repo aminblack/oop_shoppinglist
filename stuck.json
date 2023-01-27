@@ -1,0 +1,47 @@
+{
+    "banana": {
+        "quantity": 40,
+        "price": 80,
+        "dimension": "kg"
+    },
+    "apple": {
+        "quantity": 45,
+        "price": 50,
+        "dimension": "kg"
+    },
+    "orange": {
+        "quantity": 100,
+        "price": 60,
+        "dimension": "kg"
+    },
+    "peach": {
+        "quantity": 90,
+        "price": 80,
+        "dimension": "kg"
+    },
+    "cake": {
+        "quantity": 110,
+        "price": 25,
+        "dimension": "number"
+    },
+    "cheeps": {
+        "quantity": 120,
+        "price": 70,
+        "dimension": "number"
+    },
+    "water": {
+        "quantity": 110,
+        "price": 15,
+        "dimension": "number"
+    },
+    "soda": {
+        "quantity": 110,
+        "price": 25,
+        "dimension": "number"
+    },
+    "coca": {
+        "quantity": 110,
+        "price": 25,
+        "dimension": "number"
+    }
+}
